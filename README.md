@@ -11,9 +11,9 @@
 ## <h2 align="center">Preview</h2>
 
 <div style="display: inline_block" align = "center"><br>
-<a href="https://reactnative.dev" target="_blank"> <img src="https://img.shields.io/static/v1?label=Framework&message=React Native&color=blue">
-<a href="https://expo.dev" target="_blank"> <img src="https://img.shields.io/static/v1?label=Framework&message=Expo&color=black">
-<a href="https://github.com/meliorence/react-native-snap-carousel" target="_blank"> <img src="https://img.shields.io/static/v1?label=Component&message=Snap Carousel&color=orange">
+<a href="https://reactnative.dev" target="_blank"> <img src="https://img.shields.io/static/v1?label=Framework&message=React Native&color=blue" href="https://reactnative.dev"> </a>
+<a href="https://expo.dev" target="_blank"> <img src="https://img.shields.io/static/v1?label=Framework&message=Expo&color=black"></a>
+<a href="https://github.com/meliorence/react-native-snap-carousel" target="_blank"> <img src="https://img.shields.io/static/v1?label=Component&message=Snap Carousel&color=orange"></a>
 </div>
 
 

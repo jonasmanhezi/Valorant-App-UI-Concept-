@@ -8,4 +8,4 @@
 
 
 
-<img src="/app.gif" width="150" height="300"/>
+
